@@ -7,7 +7,7 @@
 }
 
 body{
-    background:url('pexels-pixabay-531756.jpg');
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
